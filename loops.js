@@ -25,7 +25,6 @@ yourPatch(width-480, height-480);
 
 // Taller Lines
 
-
 function yourPatch(x, y) {
   noFill();
   stroke(238);
@@ -46,7 +45,6 @@ background(255);
 yourPatch(0, 0);
 yourPatch(width-480, height-480);
 
-
 // Lines: Alternative Code (Counter)
 
 var counter = 10;
@@ -55,13 +53,9 @@ while (counter <= width) {
   counter = counter + 5;
 }
 
-
-// Paremeters: (x, y, x, y)
-// Increments: 5; x1 = y2; y1 = x2
-
+// Paremeters: (x, y, x, y) - Increments: 5; x1 = y2; y1 = x2
 
 // Vertical Lines
-
 
 var counter = 20;
 while (counter <= width) { 
@@ -70,7 +64,6 @@ while (counter <= width) {
 }
 
 // Horizontal Lines
-
 
 var counter = 20;
 while (counter <= width) { 
