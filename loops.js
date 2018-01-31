@@ -45,3 +45,12 @@ background(255);
 
 yourPatch(0, 0);
 yourPatch(width-480, height-480);
+
+
+// Lines: Alternative Code (Counter)
+
+var counter = 10;
+while (counter <= width) { 
+  line (counter, 10, 10, counter);
+  counter = counter + 5;
+}
