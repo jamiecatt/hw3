@@ -53,7 +53,8 @@ while (counter <= width) {
   counter = counter + 5;
 }
 
-// Paremeters: (x, y, x, y) - Increments: 5; x1 = y2; y1 = x2
+// Paremeters: (x, y, x, y)
+// Increments: 5; x1 = y2; y1 = x2
 
 // Vertical Lines
 
