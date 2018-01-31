@@ -54,3 +54,26 @@ while (counter <= width) {
   line (counter, 10, 10, counter);
   counter = counter + 5;
 }
+
+
+// Paremeters: (x, y, x, y)
+// Increments: 5; x1 = y2; y1 = x2
+
+
+// Vertical Lines
+
+
+var counter = 20;
+while (counter <= width) { 
+  line (counter, 20, counter, 100);
+  counter = counter + 5;
+}
+
+// Horizontal Lines
+
+
+var counter = 20;
+while (counter <= width) { 
+  line (20, counter, 100, counter);
+  counter = counter + 5;
+}
