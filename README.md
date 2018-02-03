@@ -1,2 +1,2 @@
 # hw3
-In-Class Workshop: Class Quilt
+P&E Homework 3
