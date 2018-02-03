@@ -1,4 +1,4 @@
-function yourPatch(x, y) {
+function jmgcPatch(x, y) {
   noFill();
   stroke(200);
   rect(x, y, 100, 100);
@@ -24,5 +24,5 @@ function yourPatch(x, y) {
 
 background(255);
 
-yourPatch(0, 0);
-yourPatch(width-100, height-100);
+jmgcPatch(0, 0);
+jmgcPatch(width-100, height-100);
