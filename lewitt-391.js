@@ -91,6 +91,8 @@ line(540, 400, 340, 200);
 line(330, 400, 130, 200);
 line(260, 400, 60, 200);
 
+// Divider
+	
 stroke('black');
 line(200, 400, 200, 0);
 strokeWeight(20);
